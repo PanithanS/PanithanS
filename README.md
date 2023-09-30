@@ -3,5 +3,5 @@
 - 📚 My personal repository, mostly for my hands-on projects
 - 🔎 Looking for a dataset to be hands-on for my data science experience.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PanithanS&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PanithanS&show_icons=False)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PanithanS&layout=compact)
