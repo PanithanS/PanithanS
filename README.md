@@ -1,5 +1,5 @@
 ### Hi there! I am Panithan 👋
-- :computer: Interdisciplinary interest in the fields of engineering, applied science, computer vision, image processing, machine learning, and deep learning
+- :computer: Interdisciplinary interest in the fields of engineering, applied science, computer vision, image processing, deep/machine learning
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PanithanS&rank_icon=github)
