@@ -1,5 +1,5 @@
 ### Hi there! I am Panithan 👋
-- :computer: Experience in engineering, applied science, computer vision, image processing, deep/machine learning
+- :computer: Experience in engineering, applied science research using computer vision, image processing, deep/machine learning
 - :beginner: Expanding my domain to business data analysis, recommendation systems, and data science for business
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PanithanS&rank_icon=github)
