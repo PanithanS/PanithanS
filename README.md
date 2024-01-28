@@ -3,7 +3,5 @@
 - :computer: Interested in data science and making models for computer vision, image processing, deep/machine learning
 - :beginner: Expanding to data analysts, exploring insight, data-driven decision-making, recommendation systems, and yield prediction.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PanithanS&rank_icon=github)
-
 
 
