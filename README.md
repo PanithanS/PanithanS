@@ -3,4 +3,4 @@
 - :computer: Interested in data science and making models for computer vision, image processing, deep/machine learning
 - :beginner: Data analysts, exploring insight, data-driven decision-making, recommendation systems, and yield prediction.
 
-Contributor for projects published at: https://github.com/yunseokAFM
+Projects Contributor at: https://github.com/yunseokAFM
